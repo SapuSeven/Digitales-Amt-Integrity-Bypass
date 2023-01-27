@@ -1,7 +1,9 @@
 # Digitales-Amt-Integrity-Bypass
+
 An XPosed/LSPosed module that allows the use of "Digitales Amt" on a rooted device.
 
-Tested and compatible with Digitales Amt v2.4.1 (newer versions may work as well).
+<img src="https://img.shields.io/badge/Tested%20on-v2.5.2-e63310?style=for-the-badge"/>
+(newer versions may work as well)
 
 ## Installation
 Assuming you already have an Android device rooted using Magisk:
