@@ -13,10 +13,10 @@
             android:value="true" />
         <meta-data
             android:name="xposedscope"
-            android:value="at.gv.oe.app" />
+            android:value="at.gv.oe.app;at.gv.bmf.bmf2go" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Allows the use of Digitales Amt with a rooted device." />
+            android:value="Allows the use of Digitales Amt / FON+ with a rooted device." />
         <meta-data
             android:name="xposedminversion"
             android:value="93" />
